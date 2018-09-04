@@ -1,0 +1,5 @@
+cree un projet dancer2:
+dancer2 -a nom_du projet
+
+lancer un projet dancer :
+plackup -p 5000 bin/app.psgi
